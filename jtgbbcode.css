@@ -1,3 +1,10 @@
 .bbcode-admins {
     
 }
+.bbcode-queen {
+    font-family:'dominican italic';
+    font-size:120%;
+} #stats_legend span {
+    font-family:'verdana',sans-serif !important;
+    font-size:100% !important;
+}
