@@ -1,8 +1,8 @@
 .bbcode-queen {
     font-family:'king arthur';
     font-size:120%;
-} #stats_legend span {
-    font-family:'verdana',sans-serif;
+} #stats_legend.bbcode-queen {
+    font-family:'verdana',sans-serif !important;
     font-size:100% !important;
 }
 .bbcode-admins {
