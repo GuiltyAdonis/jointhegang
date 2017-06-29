@@ -1,6 +1,7 @@
-#cat-5115085 .forum, #cat-5115086 .forum { 
+#cat-5115085 .forum, #cat-5115086 .forum, #cat-5115087 .forum { 
     height:170px;
 }
-#cat-5115085 .c_info, #cat-5115086 .c_info {
-    height:150px;margin-top:-150px;
+#cat-5115085 .c_info, #cat-5115086 .c_info, #cat-5115087 .c_info {
+    height:150px;
+    margin-top:-150px;
 }
