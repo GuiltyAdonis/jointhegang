@@ -1,0 +1,5 @@
+.c_forum div::-webkit-scrollbar             { width:6px; }
+.c_forum div::-webkit-scrollbar-button      { display:none; }
+.c_forum div::-webkit-scrollbar-track       { background:transparent; }
+.c_forum div::-webkit-scrollbar-track-piece { background:transparent; }
+.c_forum div::-webkit-scrollbar-thumb       { background:#633; width:6px; }
