@@ -1,24 +1,8 @@
-/*
-var whitechapel = document.getElementById("cat-5115085");
-    whitechapel.getElementsByClassName("c_info")[0].style.background = "url(http://i65.tinypic.com/ogx4qr.png)";
-    whitechapel.getElementsByClassName("c_info")[1].style.background = "url(http://i67.tinypic.com/30kvg9v.png) 400px";
-    whitechapel.getElementsByClassName("c_info")[2].style.background = "url(http://i63.tinypic.com/vg29o7.png) 300px";
-    whitechapel.getElementsByClassName("c_info")[3].style.background = "url(http://i67.tinypic.com/j923d0.png) 400px";
-    whitechapel.getElementsByClassName("c_info")[4].style.background = "url(http://i67.tinypic.com/2s8pvr9.png) 400px"; //black market
-    whitechapel.getElementsByClassName("c_info")[5].style.background = "url(http://i65.tinypic.com/2u9mp2d.png) 165px -5px";
-
-var london = document.getElementById("cat-5115086");
-    london.getElementsByClassName("c_info")[0].style.background = "url(http://i64.tinypic.com/33w45fs.jpg)";
-    london.getElementsByClassName("c_info")[1].style.background = "url(http://i67.tinypic.com/240ypsy.jpg)";
-    london.getElementsByClassName("c_info")[2].style.background = "url(http://i65.tinypic.com/2zstl6t.jpg)";
-    london.getElementsByClassName("c_info")[3].style.background = "url(http://i64.tinypic.com/2j337r7.jpg)";
-    london.getElementsByClassName("c_info")[4].style.background = "url(http://i63.tinypic.com/517b7q.png)"; //bank of london
-    london.getElementsByClassName("c_info")[5].style.background = "url(http://i66.tinypic.com/x2p72f.jpg)";
-
-var westminster = document.getElementById("cat-5115087");
-    westminster.getElementsByClassName("c_info")[0].style.background = "url(http://i63.tinypic.com/35mo7kw.jpg)";
-    westminster.getElementsByClassName("c_info")[1].style.background = "url(http://i67.tinypic.com/wqokt1.jpg)";
-    westminster.getElementsByClassName("c_info")[2].style.background = "url(http://i65.tinypic.com/11ke7hw.jpg)";
-    westminster.getElementsByClassName("c_info")[3].style.background = "url(http://i67.tinypic.com/291kche.jpg)";
-    westminster.getElementsByClassName("c_info")[4].style.background = "url(http://i64.tinypic.com/wrcs55.jpg)";
-*/
+var boroughs = document.getElementById("cat-5116580");
+    boroughs.getElementsByClassName("c_info")[0].style.background = "url(http://i68.tinypic.com/ncnmg8.png)"; //whitechapel
+    boroughs.getElementsByClassName("c_info")[1].style.background = "url(http://i67.tinypic.com/554e1l.png)"; //london
+    boroughs.getElementsByClassName("c_info")[2].style.background = "url(http://i64.tinypic.com/wrcs55.png)"; //the strand
+    boroughs.getElementsByClassName("c_info")[3].style.background = "url(http://i65.tinypic.com/11ke7hw.png)";  //westminster
+    boroughs.getElementsByClassName("c_info")[4].style.background = "url(http://i65.tinypic.com/23t1axe.png)"; //thames
+    boroughs.getElementsByClassName("c_info")[5].style.background = "url(http://i68.tinypic.com/2iabciq.png)"; //southwark
+    boroughs.getElementsByClassName("c_info")[6].style.background = "url(http://i64.tinypic.com/1z3cqk1.png)"; //lambeth
