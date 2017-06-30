@@ -13,3 +13,10 @@ var london = document.getElementById("cat-5115086");
     london.getElementsByClassName("c_info")[3].style.background = "url(http://i64.tinypic.com/2j337r7.jpg)";
     london.getElementsByClassName("c_info")[4].style.background = "url(http://i63.tinypic.com/517b7q.png)";
     london.getElementsByClassName("c_info")[5].style.background = "url(http://i66.tinypic.com/x2p72f.jpg)";
+
+var westminster = document.getElementById("cat-5115087");
+    westminster.getElementsByClassName("c_info")[0].style.background = "url(http://i63.tinypic.com/35mo7kw.jpg)";
+    westminster.getElementsByClassName("c_info")[1].style.background = "url(http://i67.tinypic.com/wqokt1.jpg)";
+    westminster.getElementsByClassName("c_info")[2].style.background = "url(http://i65.tinypic.com/11ke7hw.jpg)";
+    westminster.getElementsByClassName("c_info")[3].style.background = "url(http://i67.tinypic.com/291kche.jpg)";
+    westminster.getElementsByClassName("c_info")[4].style.background = "url(http://i64.tinypic.com/wrcs55.jpg)";
